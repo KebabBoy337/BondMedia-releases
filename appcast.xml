@@ -6,6 +6,15 @@
     <description>BondMedia updates</description>
     <language>en</language>
     <item>
+      <title>BondMedia 0.2.3</title>
+      <pubDate>Thu, 05 Nov 2026 22:40:56 +0100</pubDate>
+      <sparkle:version>32</sparkle:version>
+      <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>New compact player controls with volume and 10-second skips</li><li>The timeline's time bubble no longer covers the bar</li><li>The sidebar always opens and widens fully, with nothing cut off</li><li>No dark band over the Home hero when the pointer reaches the toolbar</li></ul>]]></description>
+      <enclosure url="https://github.com/KebabBoy337/BondMedia-releases/releases/download/v0.2.3/BondMedia-0.2.3.zip" type="application/octet-stream" sparkle:edSignature="MOk3og+KdBwFysIhFZQBFsYHhRp8cSyHpYJ4wt1oQn/3zVtD11TCs81RZjXKHd3fUisw8BBwG+kc28S16qgKAQ==" length="25014428"/>
+    </item>
+    <item>
       <title>BondMedia 0.2.2</title>
       <pubDate>Thu, 05 Nov 2026 18:19:49 +0100</pubDate>
       <sparkle:version>29</sparkle:version>
