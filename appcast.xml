@@ -6,6 +6,15 @@
     <description>BondMedia updates</description>
     <language>en</language>
     <item>
+      <title>BondMedia 0.2.2</title>
+      <pubDate>Thu, 05 Nov 2026 18:19:49 +0100</pubDate>
+      <sparkle:version>29</sparkle:version>
+      <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>The sidebar can be made as narrow as before again</li></ul>]]></description>
+      <enclosure url="https://github.com/KebabBoy337/BondMedia-releases/releases/download/v0.2.2/BondMedia-0.2.2.zip" type="application/octet-stream" sparkle:edSignature="W3Ef5B0eCZr37n1KiTL/JIn1rmwkqwRbjLmKUZXy27+Bxsoc2XiLwB7fPukXHGf9sXDzFQisSzIu6CKNK/iDCA==" length="25000443"/>
+    </item>
+    <item>
       <title>BondMedia 0.2.1</title>
       <pubDate>Thu, 05 Nov 2026 18:01:21 +0100</pubDate>
       <sparkle:version>27</sparkle:version>
