@@ -6,6 +6,15 @@
     <description>BondMedia updates</description>
     <language>en</language>
     <item>
+      <title>BondMedia 0.2.1</title>
+      <pubDate>Thu, 05 Nov 2026 18:01:21 +0100</pubDate>
+      <sparkle:version>27</sparkle:version>
+      <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>The Play/Resume button on series pages is now translated</li><li>English is used when macOS is set to neither English nor Russian</li><li>Sidebar labels no longer get cut off</li></ul>]]></description>
+      <enclosure url="https://github.com/KebabBoy337/BondMedia-releases/releases/download/v0.2.1/BondMedia-0.2.1.zip" type="application/octet-stream" sparkle:edSignature="UcxBPi+tpLCCiICPVfRNeMSXgppApQgrsZXE0DnJ/ekmH08DDb8b1B3hNO5MTLuRy41wHN2UcjA6WcsA52UvAw==" length="25000328"/>
+    </item>
+    <item>
       <title>BondMedia 0.2.0</title>
       <pubDate>Thu, 05 Nov 2026 17:43:01 +0100</pubDate>
       <sparkle:version>22</sparkle:version>
