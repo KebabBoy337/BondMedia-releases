@@ -5,5 +5,14 @@
     <link>https://raw.githubusercontent.com/KebabBoy337/BondMedia-releases/main/appcast.xml</link>
     <description>BondMedia updates</description>
     <language>ru</language>
+    <item>
+      <title>BondMedia 0.2.0</title>
+      <pubDate>Thu, 05 Nov 2026 17:43:01 +0100</pubDate>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Обновления теперь приходят сами</li><li>Загрузки для просмотра без интернета</li><li>«Далее» и список «Хочу посмотреть»</li><li>Выбранная озвучка запоминается для всего сериала</li><li>Таймер сна</li><li>Страница серии с информацией о файле</li><li>Страницы фильмов открываются мгновенно, биографии актёров</li></ul>]]></description>
+      <enclosure url="https://github.com/KebabBoy337/BondMedia-releases/releases/download/v0.2.0/BondMedia-0.2.0.zip" type="application/octet-stream" sparkle:edSignature="NiGXhiHazzGjKNfFbVGIwArDxi336bjfyhMIbYix3Ep12JjVspTjwkMGrYwdlC5ZAMx7kUFaURzQLhBu/gFZAA==" length="24997551"/>
+    </item>
   </channel>
 </rss>
