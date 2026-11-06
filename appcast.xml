@@ -6,6 +6,21 @@
     <description>BondMedia updates</description>
     <language>en</language>
     <item>
+      <title>BondMedia 0.2.4</title>
+      <pubDate>Fri, 06 Nov 2026 01:43:53 +0100</pubDate>
+      <sparkle:version>35</sparkle:version>
+      <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[- Series pages: seasons are now the heading of the episode list, with a count of episodes left. Hide Spoilers moved into the ⋯ menu.
+- Download Season is a round button next to Favorites and shows which season it will download.
+- Smoother scrolling through long episode lists.
+- The timeline's time preview now floats above the bar instead of covering it; the bar thickens less on hover.
+- Library grids no longer hide their last column, and the A–Z bar stays clear of always-visible scroll bars.
+- Clearer buffer settings: the values are minimums (files with rare keyframes buffer further ahead).
+- Tooltips on Play, Resume and Trailer.]]></description>
+      <enclosure url="https://github.com/KebabBoy337/BondMedia-releases/releases/download/v0.2.4/BondMedia-0.2.4.zip" type="application/octet-stream" sparkle:edSignature="WowCnp5+KOZfU/sWfpSs7lohERMwoNpA3fznJY5nOtLdapp+RcVcm3s9vrdD/BgONpt99y0i28AB/wJtqidvBw==" length="25041542"/>
+    </item>
+    <item>
       <title>BondMedia 0.2.3</title>
       <pubDate>Thu, 05 Nov 2026 22:40:56 +0100</pubDate>
       <sparkle:version>32</sparkle:version>
