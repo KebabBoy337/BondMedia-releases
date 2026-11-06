@@ -6,6 +6,15 @@
     <description>BondMedia updates</description>
     <language>en</language>
     <item>
+      <title>BondMedia 0.2.6</title>
+      <pubDate>Fri, 06 Nov 2026 02:35:07 +0100</pubDate>
+      <sparkle:version>39</sparkle:version>
+      <sparkle:shortVersionString>0.2.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[- Fixed: with many audio or subtitle tracks, the player's Audio/Subtitles panel ran past the window. Long lists now scroll and open on the selected track.]]></description>
+      <enclosure url="https://github.com/KebabBoy337/BondMedia-releases/releases/download/v0.2.6/BondMedia-0.2.6.zip" type="application/octet-stream" sparkle:edSignature="82JmThFPtqDs5ULZ/UG/GUGZq+2+Iii9DEoSKs6YmCDCl5Z8krXk7WayeUpDig7iUTZpCtbf9t89n062w/aqAw==" length="25047119"/>
+    </item>
+    <item>
       <title>BondMedia 0.2.5</title>
       <pubDate>Fri, 06 Nov 2026 02:13:42 +0100</pubDate>
       <sparkle:version>37</sparkle:version>
