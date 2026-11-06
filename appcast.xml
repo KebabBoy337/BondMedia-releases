@@ -6,6 +6,15 @@
     <description>BondMedia updates</description>
     <language>en</language>
     <item>
+      <title>BondMedia 0.2.8</title>
+      <pubDate>Fri, 06 Nov 2026 19:52:27 +0100</pubDate>
+      <sparkle:version>43</sparkle:version>
+      <sparkle:shortVersionString>0.2.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Episode cards in Up Next and Search now show the show's title art instead of a frame from the episode. Movies without key art get their title logo over the backdrop.]]></description>
+      <enclosure url="https://github.com/KebabBoy337/BondMedia-releases/releases/download/v0.2.8/BondMedia-0.2.8.zip" type="application/octet-stream" sparkle:edSignature="YNMBcjkpkYAJS1FVDFi2zNBDkQATWzzSjllVzv02jYSUbgigmE58Q+eqF7WrmttHpmepFk3tbX8sY++BBg/WCg==" length="25049475"/>
+    </item>
+    <item>
       <title>BondMedia 0.2.7</title>
       <pubDate>Fri, 06 Nov 2026 15:23:30 +0100</pubDate>
       <sparkle:version>41</sparkle:version>
