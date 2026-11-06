@@ -6,6 +6,16 @@
     <description>BondMedia updates</description>
     <language>en</language>
     <item>
+      <title>BondMedia 0.2.5</title>
+      <pubDate>Fri, 06 Nov 2026 02:13:42 +0100</pubDate>
+      <sparkle:version>37</sparkle:version>
+      <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[- Fixed: after changing the language, Relaunch left the old window running (and it ignored ⌘Q). It now quits and reopens cleanly.
+- Quitting can no longer hang: if saving the playback position stalls, the app still quits within 3 seconds.]]></description>
+      <enclosure url="https://github.com/KebabBoy337/BondMedia-releases/releases/download/v0.2.5/BondMedia-0.2.5.zip" type="application/octet-stream" sparkle:edSignature="meZgTBg/QY5zN0ux63woceKsVjL1UfYCpV8EosPuLT9TMOevk1x7zOfJ5GP7nF8Kb8+qTi0DcwC/aLylW92TDg==" length="25044604"/>
+    </item>
+    <item>
       <title>BondMedia 0.2.4</title>
       <pubDate>Fri, 06 Nov 2026 01:43:53 +0100</pubDate>
       <sparkle:version>35</sparkle:version>
