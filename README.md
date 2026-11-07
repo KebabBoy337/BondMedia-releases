@@ -18,3 +18,14 @@ Requires a Mac with Apple Silicon and macOS 27.
 4. Open BondMedia, enter your Jellyfin server address and sign in.
 
 After that, new versions arrive by themselves (BondMedia → «Проверить обновления…»).
+
+## Open-source components
+
+BondMedia is built on open-source components; their licenses are listed in the app
+(Settings → General → Acknowledgements).
+
+The playback engine, [AetherEngine](https://github.com/superuser404notfound/AetherEngine)
+(LGPL-3.0 with an App Store exception), ships as its own framework inside the app and can be replaced.
+Since 0.3.0 BondMedia uses a modified copy of it (a hook for Headphone Surround). The complete source
+of that copy is attached to each release that contains it as
+`AetherEngine-<version>-bondmedia-source.tar.gz`; `PATCHES.md` inside lists every change from upstream.
