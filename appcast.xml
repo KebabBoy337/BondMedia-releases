@@ -6,6 +6,15 @@
     <description>BondMedia updates</description>
     <language>en</language>
     <item>
+      <title>BondMedia 0.3.0</title>
+      <pubDate>Sat, 07 Nov 2026 18:04:26 +0100</pubDate>
+      <sparkle:version>45</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li><b>Headphone Surround</b>: 5.1 and 7.1 soundtracks are placed around you in any wired or USB headphones (a virtual speaker room built on MIT KEMAR measurements) instead of being folded into flat stereo. Turn it on in the player's audio panel (⌘S) or in Settings → Audio &amp; Video.</li><li><b>Fix Match</b> for server admins: if a title got the wrong poster or details, pick the right one from TMDB (search by title and year, or paste an IMDb ID or TMDB link). Right-click a card, or use the ⋯ button on its page.</li><li>Ratings now say where they come from: TMDB and Rotten Tomatoes chips on title pages and Home.</li><li><b>Add Account</b> lists your saved servers first, so another user can sign in to the same server in two clicks.</li><li>Settings are one click away: a gear next to your account in the sidebar, and a Settings item in the account menu.</li><li>Acknowledgements: the open-source components BondMedia is built on, with their licenses (Settings → General).</li></ul>]]></description>
+      <enclosure url="https://github.com/KebabBoy337/BondMedia-releases/releases/download/v0.3.0/BondMedia-0.3.0.zip" type="application/octet-stream" sparkle:edSignature="jMqA+yaKVv9YaprT1fhLOJvtDYPSTxoENipNPUvDkHNH748cRVivItTrbXsJeFhfgU0OthIvU54nhmAdTSF4AQ==" length="29198714"/>
+    </item>
+    <item>
       <title>BondMedia 0.2.8</title>
       <pubDate>Fri, 06 Nov 2026 19:52:27 +0100</pubDate>
       <sparkle:version>43</sparkle:version>
