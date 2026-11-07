@@ -6,6 +6,15 @@
     <description>BondMedia updates</description>
     <language>en</language>
     <item>
+      <title>BondMedia 0.3.1</title>
+      <pubDate>Sun, 08 Nov 2026 00:27:00 +0100</pubDate>
+      <sparkle:version>47</sparkle:version>
+      <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Watch Together: Create Group now shows that it's working and ignores repeat clicks while a busy server takes its time, so you no longer end up creating a group per click. If the server answers late, BondMedia waits for the group instead of reporting a timeout.</li></ul>]]></description>
+      <enclosure url="https://github.com/KebabBoy337/BondMedia-releases/releases/download/v0.3.1/BondMedia-0.3.1.zip" type="application/octet-stream" sparkle:edSignature="WZGOtpLaspwjLV+5DmIrUgRljRpyCvNEgo4TcCioha27V7+vZwcY+ij8tJtXP73JvFdO1ZARr+mPxY+72J9yAg==" length="29215548"/>
+    </item>
+    <item>
       <title>BondMedia 0.3.0</title>
       <pubDate>Sat, 07 Nov 2026 18:04:26 +0100</pubDate>
       <sparkle:version>45</sparkle:version>
