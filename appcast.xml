@@ -6,6 +6,15 @@
     <description>BondMedia updates</description>
     <language>en</language>
     <item>
+      <title>BondMedia 0.3.2</title>
+      <pubDate>Sun, 08 Nov 2026 01:25:36 +0100</pubDate>
+      <sparkle:version>49</sparkle:version>
+      <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Watch Together: pausing, resuming and skipping from the Picture in Picture window now reaches everyone in the group, not just you.</li><li>Fixed a crash when opening the player's audio and subtitles panel (most often in full screen or a small window).</li></ul>]]></description>
+      <enclosure url="https://github.com/KebabBoy337/BondMedia-releases/releases/download/v0.3.2/BondMedia-0.3.2.zip" type="application/octet-stream" sparkle:edSignature="4uv8UaiUSTVaVDBDEQ+IQ4yo2WwRldB+Pl1+FA+GRWRokgfAyI+Nd/nNM3jvprqZTutDDAk8Fptv1aHr5ShjCA==" length="29223598"/>
+    </item>
+    <item>
       <title>BondMedia 0.3.1</title>
       <pubDate>Sun, 08 Nov 2026 00:27:00 +0100</pubDate>
       <sparkle:version>47</sparkle:version>
