@@ -6,6 +6,15 @@
     <description>BondMedia updates</description>
     <language>en</language>
     <item>
+      <title>BondMedia 0.3.4</title>
+      <pubDate>Sun, 08 Nov 2026 22:15:56 +0100</pubDate>
+      <sparkle:version>53</sparkle:version>
+      <sparkle:shortVersionString>0.3.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Movies with built-in subtitles no longer download twice. The subtitle reader now waits while the video buffer already covers what it needs, and it no longer re-reads parts of the film you have already watched. On a slow server that leaves the bandwidth to the video, so there is less buffering.</li></ul>]]></description>
+      <enclosure url="https://github.com/KebabBoy337/BondMedia-releases/releases/download/v0.3.4/BondMedia-0.3.4.zip" type="application/octet-stream" sparkle:edSignature="yDfo7xBYJz0/UyIAy3eQDdo9mO/ommnR/75I8drsO4RrmpX7IG9P4/C131PIKdsdB35Dd5sqK7TpLptzXE9PBA==" length="29222269"/>
+    </item>
+    <item>
       <title>BondMedia 0.3.3</title>
       <pubDate>Sun, 08 Nov 2026 02:03:43 +0100</pubDate>
       <sparkle:version>51</sparkle:version>
