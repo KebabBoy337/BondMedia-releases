@@ -6,6 +6,15 @@
     <description>BondMedia updates</description>
     <language>en</language>
     <item>
+      <title>BondMedia 0.3.3</title>
+      <pubDate>Sun, 08 Nov 2026 02:03:43 +0100</pubDate>
+      <sparkle:version>51</sparkle:version>
+      <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Ratings look like they did before 0.3.0 again: a star for the TMDB score and a tomato for Rotten Tomatoes. A rotten score (below 60%) now shows a green splat instead of the tomato.</li></ul>]]></description>
+      <enclosure url="https://github.com/KebabBoy337/BondMedia-releases/releases/download/v0.3.3/BondMedia-0.3.3.zip" type="application/octet-stream" sparkle:edSignature="cO/WsfK2ae77e2IXsPRbJ4ocOQcrK+8S4ubb64SG4ty6AFN13A3YGFSwRY3BaLcq9jYfZRPj4eKD6Z0B3CepDg==" length="29200798"/>
+    </item>
+    <item>
       <title>BondMedia 0.3.2</title>
       <pubDate>Sun, 08 Nov 2026 01:25:36 +0100</pubDate>
       <sparkle:version>49</sparkle:version>
