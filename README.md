@@ -26,6 +26,7 @@ BondMedia is built on open-source components; their licenses are listed in the a
 
 The playback engine, [AetherEngine](https://github.com/superuser404notfound/AetherEngine)
 (LGPL-3.0 with an App Store exception), ships as its own framework inside the app and can be replaced.
-Since 0.3.0 BondMedia uses a modified copy of it (a hook for Headphone Surround). The complete source
+Since 0.3.0 BondMedia uses a modified copy of it (a hook for Headphone Surround; since 0.3.4 also a
+subtitle prefetcher that stays idle while the video buffer already covers it). The complete source
 of that copy is attached to each release that contains it as
 `AetherEngine-<version>-bondmedia-source.tar.gz`; `PATCHES.md` inside lists every change from upstream.
