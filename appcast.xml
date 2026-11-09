@@ -6,6 +6,15 @@
     <description>BondMedia updates</description>
     <language>en</language>
     <item>
+      <title>BondMedia 0.3.5</title>
+      <pubDate>Mon, 09 Nov 2026 22:45:25 +0100</pubDate>
+      <sparkle:version>56</sparkle:version>
+      <sparkle:shortVersionString>0.3.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Faster streaming from a distant server: when playback can't keep up, BondMedia now fetches the next part of the file on a second connection (about 1.5x faster in our tests on high-bitrate 4K remuxes).</li><li>Audio panel: Night Mode, Clear Dialogue, Headphone Surround and Stereo are now a compact 2×2 grid, leaving more room for the track list.</li></ul>]]></description>
+      <enclosure url="https://github.com/KebabBoy337/BondMedia-releases/releases/download/v0.3.5/BondMedia-0.3.5.zip" type="application/octet-stream" sparkle:edSignature="4qkofSPnXibWMHPdF6Cc5FVu92yWbq0eRQvM4NfDngoiMKUnRWX6WixkutbP78N+NnMLc56bN+78tu4Cmue/Bw==" length="29250257"/>
+    </item>
+    <item>
       <title>BondMedia 0.3.4</title>
       <pubDate>Sun, 08 Nov 2026 22:15:56 +0100</pubDate>
       <sparkle:version>53</sparkle:version>
